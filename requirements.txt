@@ -3,7 +3,7 @@ Markdown==2.2.1
 MySQL-python==1.2.3
 Pillow==2.0.0
 PyYAML==3.10
-Pygments==1.6
+Pygments==2.7.4
 amqp==1.0.13
 amqplib==1.0.2
 anyjson==0.3.3
