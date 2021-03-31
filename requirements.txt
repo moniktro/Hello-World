@@ -21,7 +21,7 @@ django-picklefield==0.2.1
 docutils==0.10
 kombu==2.5.16
 lxkeymap==0.1
-lxml==3.1.0
+lxml==4.6.3
 mailer==0.7
 pycups==1.9.62
 pycurl==7.19.0
