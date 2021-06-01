@@ -41,6 +41,6 @@ setuptools-git==1.0b1
 six==1.4.1
 ssh-import-id==3.14
 textile==2.1.5
-urllib3==1.5
+urllib3==1.26.5
 virtualenv==1.9.1
 wsgiref==0.1.2
