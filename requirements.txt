@@ -10,7 +10,7 @@ anyjson==0.3.3
 argparse==1.2.1
 billiard==2.7.3.34
 boto==2.15.0
-celery==3.0.24
+celery==5.2.2
 chardet==2.0.1
 cl==0.0.3
 defer==1.0.6
