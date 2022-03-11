@@ -1,7 +1,7 @@
 Django==1.5.2
 Markdown==2.2.1
 MySQL-python==1.2.3
-Pillow==2.0.0
+Pillow==9.0.1
 PyYAML==3.10
 Pygments==1.6
 amqp==1.0.13
